@@ -4,7 +4,7 @@
   "description": "A small web app in React that queries Reddit for submissions.",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^2.2.1",
+    "jquery": "^3.5.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
   },
